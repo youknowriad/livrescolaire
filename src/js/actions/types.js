@@ -1,0 +1,5 @@
+export const SAVE_STUDENT = 'SAVE_STUDENT'
+export const REMOVE_STUDENT = 'REMOVE_STUDENT'
+export const LOAD_STUDENTS = 'LOAD_STUDENTS'
+
+export const GO_TO_PAGE = 'GO_TO_PAGE'

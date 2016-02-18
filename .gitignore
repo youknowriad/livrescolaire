@@ -1,0 +1,4 @@
+.DS_Store
+src/public/build
+.idea
+node_modules
